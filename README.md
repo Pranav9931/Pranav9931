@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Pranav Kumar
 - 👀 I'm a freelancer and share interests in Problem Solving, Web Development, UI/UX Designing, Entrepreneurship, etc.
-- 🌱 I’m currently learning C++, Python and JavaScript.
+- 🧡 React JS has my heart.
+- 💻 Languages Known: C++, Python and JavaScript, TypeScript.
 - 👨‍🔧 I'm good at HTML, Best at CSS and an intermediate level developer in JavaScript framework (ReactJS).
-- 💞️ I’m looking to collaborate on Web Development related stuffs.
+- 🤝 I’m looking to collaborate on Web Development related stuffs.
 - 📫 How to reach me:
 -  Email: pranavsandilya786@gmail.com
