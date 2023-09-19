@@ -6,10 +6,13 @@
 
 **Front-End**:
 `React JS`,`JavaScript`, `HTML`, `CSS`, `Material UI`, `Tailwind CSS`, `TypeScript`
+
 **Back-End**:
 `golang`,`NodeJS`, `ExpressJS`, `Python`, `Solidity`, `C/C++`, `Reddis`, `AMQP`, `RabbitMQ`, `Postman`
+
 **Databases**:
 `postgres`, `MySQL`, `MongoDB`
+
 **Designing & UI/UX**:
 `Adovbe XD`, `Figma`, `Adobe Photoshop`
 
