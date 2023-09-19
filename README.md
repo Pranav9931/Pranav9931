@@ -21,6 +21,8 @@ I excel in the areas of Web Development, UI/UX Designing and Backend Infrastruct
 ## Let's Connect
 
 I'm always looking forward to collaborating on exciting projects. If you have an idea or a project in mind, do ping me.
+
 You can drop me a mail at [pranavsandilya786@gmail.com](mailto:pranavsandilya786@gmail.com)
+
 Looking forward to being a part of something amazing together!
 
