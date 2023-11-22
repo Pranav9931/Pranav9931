@@ -14,7 +14,7 @@
 `postgres`, `MySQL`, `MongoDB`
 
 **Designing & UI/UX**:
-`Adovbe XD`, `Figma`, `Adobe Photoshop`
+`Adobe XD`, `Figma`, `Adobe Photoshop`
 
 I excel in the areas of Web Development, UI/UX Designing and Backend Infrastructure. With an experience of almost 3 years, I have had the privilege of working on numerous projects for diverse clients from all around the world. Each of these experiences have enriched my skills and perspectives in the field of development.
 
