@@ -1,14 +1,14 @@
 # Pranav Kumar
 
-👋 Hi there, I'm Pranav Kumar, a passionate and ambitious freelancer with interests spanning across various fields such as Problem Solving, Web Development, UI/UX Designing, and Entrepreneurship. I absolutely love working with React JS - it's safe to say it has my heart!
+👋 Hi there, I'm Pranav Kumar, a passionate and ambitious freelancer with interests spanning across various fields such as Problem Solving, Web Development, UI/UX Designing, and Entrepreneurship.
 
 ## Skills
 
 **Front-End**:
-`React JS`,`JavaScript`, `HTML`, `CSS`, `Material UI`, `Tailwind CSS`, `TypeScript`
+`React JS`, `JavaScript`, `HTML`, `CSS`, `Material UI`, `Tailwind CSS`, `TypeScript`
 
 **Back-End**:
-`golang`,`NodeJS`, `ExpressJS`, `Python`, `Solidity`, `C/C++`, `Reddis`, `AMQP`, `RabbitMQ`, `Postman`
+`golang`, `NodeJS`, `ExpressJS`, `Python`, `Solidity`, `C/C++`, `Reddis`, `AMQP`, `RabbitMQ`, `Postman`
 
 **Databases**:
 `postgres`, `MySQL`, `MongoDB`
