@@ -2,7 +2,7 @@
 
 👋 Hi there, I'm Pranav Kumar, a passionate and ambitious freelancer with interests spanning across various fields such as Problem Solving, Web Development, UI/UX Designing, and Entrepreneurship.
 
-## Skills
+## Skills||
 
 **Front-End**:
 `React JS`, `JavaScript`, `HTML`, `CSS`, `Material UI`, `Tailwind CSS`, `TypeScript`
