@@ -2,22 +2,22 @@
 <div align="center">
 
 ```
-██████╗ ██████╗  █████╗ ███╗   ██╗ █████╗ ██╗   ██╗    ██╗  ██╗██╗   ██╗███╗   ███╗ █████╗ ██████╗
-██╔══██╗██╔══██╗██╔══██╗████╗  ██║██╔══██╗██║   ██║    ██║ ██╔╝██║   ██║████╗ ████║██╔══██╗██╔══██╗
-██████╔╝██████╔╝███████║██╔██╗ ██║███████║██║   ██║    █████╔╝ ██║   ██║██╔████╔██║███████║██████╔╝
-██╔═══╝ ██╔══██╗██╔══██║██║╚██╗██║██╔══██║╚██╗ ██╔╝    ██╔═██╗ ██║   ██║██║╚██╔╝██║██╔══██║██╔══██╗
-██║     ██║  ██║██║  ██║██║ ╚████║██║  ██║ ╚████╔╝     ██║  ██╗╚██████╔╝██║ ╚═╝ ██║██║  ██║██║  ██║
-╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝  ╚═══╝      ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
+██████╗ ██████╗  █████╗ ███╗   ██╗ █████╗ ██╗   ██╗███████╗ █████╗ ███╗   ██╗    ███████╗████████╗██╗  ██╗
+██╔══██╗██╔══██╗██╔══██╗████╗  ██║██╔══██╗██║   ██║██╔════╝██╔══██╗████╗  ██║    ██╔════╝╚══██╔══╝██║  ██║
+██████╔╝██████╔╝███████║██╔██╗ ██║███████║██║   ██║███████╗███████║██╔██╗ ██║    █████╗     ██║   ███████║
+██╔═══╝ ██╔══██╗██╔══██║██║╚██╗██║██╔══██║╚██╗ ██╔╝╚════██║██╔══██║██║╚██╗██║    ██╔══╝     ██║   ██╔══██║
+██║     ██║  ██║██║  ██║██║ ╚████║██║  ██║ ╚████╔╝ ███████║██║  ██║██║ ╚████║    ███████╗   ██║   ██║  ██║
+╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝  ╚═══╝  ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝    ╚══════╝   ╚═╝   ╚═╝  ╚═╝
 ```
 
 </div>
 
 ---
 
-<h1 align="center">👋 Hi there, I'm Pranav Kumar</h1>
+<h1 align="center">👋 Hi there, I'm pranavsan.eth</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full-Stack+Engineer+%26+UI%2FUX+Designer;Web3+%2F+Blockchain+Builder;40%2B+Hackathon+Winner+%F0%9F%8F%86;Co-founder+%40+OpenGotchi;Freelancer+since+2020" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Senior+Software+Developer;Web3+%2F+Blockchain+Developer;40%2B+Hackathon+Winner+%F0%9F%8F%86;Co-founder+%40+OpenGotchi" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@
 ## 👨‍💻 About Me
 
 > whoami
-  <br />Pranav Kumar — freelance engineer & designer.
+  <br />pranavsan.eth
 
 > career --since 2020
   <br />Built for clients across 🌍 · Embedded Systems · Cloud Architect · Backend Infra · Database · Web Dev
